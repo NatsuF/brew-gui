@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime data
+operation_history.json
+
+# WorkBuddy workspace data
+.workbuddy/
+
+# Intermediate icon assets (keep final .icns and icon_1024.png)
+assets/BrewMaster.iconset/
+assets/A_*_2026-*.png
