@@ -1,0 +1,140 @@
+[
+  {
+    "time": "2026-06-22 21:50:20",
+    "operation": "取消固定",
+    "package": "iina",
+    "result": "成功"
+  },
+  {
+    "time": "2026-06-22 21:50:48",
+    "operation": "固定",
+    "package": "clash-verge-rev",
+    "result": "成功"
+  },
+  {
+    "time": "2026-06-22 21:51:07",
+    "operation": "诊断检查",
+    "package": "系统",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 21:51:28",
+    "operation": "清理旧版本",
+    "package": "模拟",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 21:51:39",
+    "operation": "清理旧版本",
+    "package": "全部",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 21:51:59",
+    "operation": "执行命令",
+    "package": "config",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 21:55:31",
+    "operation": "诊断检查",
+    "package": "系统",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 21:55:41",
+    "operation": "清理旧版本",
+    "package": "模拟",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 22:17:57",
+    "operation": "取消固定",
+    "package": "clash-verge-rev",
+    "result": "成功"
+  },
+  {
+    "time": "2026-06-22 22:20:14",
+    "operation": "安装",
+    "package": "codex",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 22:23:33",
+    "operation": "批量卸载",
+    "package": "codex, ripgrep, pcre2",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 22:24:13",
+    "operation": "安装",
+    "package": "codex",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 22:24:53",
+    "operation": "安装",
+    "package": "codex",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 22:25:24",
+    "operation": "取消固定",
+    "package": "keka",
+    "result": "成功"
+  },
+  {
+    "time": "2026-06-22 23:28:16",
+    "operation": "批量卸载",
+    "package": "ripgrep, pcre2, codex",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-06-22 23:28:34",
+    "operation": "自动清理",
+    "package": "未使用的依赖",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:00:36",
+    "operation": "关闭服务",
+    "package": "BrewMaster 后台",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:02:11",
+    "operation": "关闭服务",
+    "package": "BrewMaster 后台",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:05:36",
+    "operation": "关闭服务",
+    "package": "BrewMaster 后台",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:10:58",
+    "operation": "更新索引(自动)",
+    "package": "全部",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:11:15",
+    "operation": "更新索引(自动)",
+    "package": "全部",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:11:20",
+    "operation": "更新索引(自动)",
+    "package": "全部",
+    "result": "已执行"
+  },
+  {
+    "time": "2026-08-10 21:12:10",
+    "operation": "关闭服务",
+    "package": "BrewMaster 后台",
+    "result": "已执行"
+  }
+]
