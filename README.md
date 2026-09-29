@@ -1,5 +1,5 @@
 # 🍺 BrewMaster — Homebrew 交互式管理工具
-1111122222222
+1111122222222333
 一个基于 Flask + Web 前端的 Homebrew 图形化管理工具，提供可视化的包搜索、安装、升级、卸载、服务管理、Brewfile 导入导出等功能。支持打包为原生 macOS `.app` 应用。
 
 ![icon](assets/icon_1024.png)
